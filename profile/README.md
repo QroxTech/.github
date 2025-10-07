@@ -19,5 +19,6 @@ Qrox is committed to driving technological advancement and innovation. By blendi
 Stay connected for updates on our latest projects and initiatives as we continue to push the boundaries of technology.
 
 ---
-**Website**: Coming soon  
+**Website**: qrox.tech
+**Information about us**: yazanlar.com/2025/09/qroxtech
 **Contact**: qroxtech@gmail.com
